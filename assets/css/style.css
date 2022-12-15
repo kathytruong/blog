@@ -849,4 +849,10 @@ blockquote {
   color: #ff6f00;
 }
 
+.title {
+  font-family: Playfair;
+  font-size: 5em;
+  color: red;
+}
+
 /*# sourceMappingURL=maps/style.css.map */

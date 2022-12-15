@@ -5,7 +5,7 @@ baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 title: Kathy Truong | Software Engineer
-logo: /assets/images/logo.png # You can add own logo
+logo: # You can add own logo
 description: Software Engineer Personal Blog
 copyright: Copyright 2022 by @kathytruong
 # Preloader
@@ -14,8 +14,10 @@ preloader: true # To disable preloader change value to false
 menu:
   - name: Home
     url: /
-  - name: About
+  - name: ReadMe
     url: /about/
+  - name: Fun Projects
+    url: /projects/
   - name: Contact
     url: /contact/
 
@@ -37,7 +39,7 @@ featured-post-slider: true # You can enable or disable the featured-post-slider 
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: I am software engineer at heart with a love for hands on creativity.
+  hero-subtitle: I am a software engineer at heart with a love for hands on creativity and a particular eye for design. I've been building all sorts of websites since 10 years old, where I spent time stealing other people's HTML code and learning how to build my own profile on Neopets. Since then, I've been hooked on code.
   hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
 
 #-------------------------------
