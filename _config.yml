@@ -40,7 +40,7 @@ featured-post-slider: true # You can enable or disable the featured-post-slider 
 # Hero Section
 hero:
   hero-subtitle: I am a software engineer at heart with a love for hands on creativity and a particular eye for design. I've been building all sorts of websites since 10 years old, where I spent time stealing other people's HTML code and learning how to build my own profile on Neopets. Since then, I've been hooked on code.
-  hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
+  hero-banner: /assets/images/Katsirius.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
